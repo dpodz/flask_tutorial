@@ -1,0 +1,15 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="1">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="280" startPos="0" endPos="0" selMode="0" lang="Python" encoding="-1" filename="C:\Users\podloda\microblog\run.py" backupFilePath="" originalFileLastModifTimestamp="1493660184" />
+            <File firstVisibleLine="6" xOffset="0" scrollWidth="672" startPos="933" endPos="933" selMode="0" lang="Python" encoding="-1" filename="C:\Users\podloda\microblog\app\views.py" backupFilePath="" originalFileLastModifTimestamp="1493733555" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="616" startPos="227" endPos="227" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\podloda\microblog\app\templates\index.html" backupFilePath="" originalFileLastModifTimestamp="1493671766" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="408" startPos="164" endPos="164" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\podloda\microblog\app\templates\base.html" backupFilePath="" originalFileLastModifTimestamp="1493732920" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="280" startPos="174" endPos="174" selMode="0" lang="Python" encoding="-1" filename="C:\Users\podloda\microblog\app\__init__.py" backupFilePath="" originalFileLastModifTimestamp="1493730941" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="568" startPos="303" endPos="303" selMode="0" lang="Python" encoding="-1" filename="C:\Users\podloda\microblog\config.py" backupFilePath="" originalFileLastModifTimestamp="1493733330" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="504" startPos="14" endPos="14" selMode="0" lang="Python" encoding="-1" filename="C:\Users\podloda\microblog\app\forms.py" backupFilePath="" originalFileLastModifTimestamp="1493731822" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="760" startPos="143" endPos="143" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\podloda\microblog\app\templates\login.html" backupFilePath="" originalFileLastModifTimestamp="1493733451" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
